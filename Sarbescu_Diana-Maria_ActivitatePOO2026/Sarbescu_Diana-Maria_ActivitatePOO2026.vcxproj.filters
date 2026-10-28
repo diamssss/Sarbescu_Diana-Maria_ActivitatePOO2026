@@ -30,5 +30,11 @@
     <ClCompile Include="Seminar 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exemplu curs 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
