@@ -39,5 +39,8 @@
     <ClCompile Include="Seminar 6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fable local seminar 6 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

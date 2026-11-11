@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="exemplu curs 4.cpp" />
     <ClCompile Include="exemplu curs 5.cpp" />
+    <ClCompile Include="fable local seminar 6 .cpp" />
     <ClCompile Include="seminar 3.cpp" />
     <ClCompile Include="seminar 1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
